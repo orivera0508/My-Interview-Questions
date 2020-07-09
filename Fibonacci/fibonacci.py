@@ -1,5 +1,6 @@
 #Fibonacci Generator
 
+#Validated Input:
 def get_nth_term():
     while True:    
         try:
